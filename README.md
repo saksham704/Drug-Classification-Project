@@ -1,11 +1,7 @@
 # 📊 Drug Classification Dashboard – Power BI Project (Review 2)
 
 ## ✅ Submitted by:
-**Shubham Mishra (Admin),**  
-Annu Kumar,  
-Saksham Bhardwaj,  
-Suraj Tiwari  
-
+Saksham Bhardwaj,   
 B.Tech CSE, Semester IV
 Galgotias University  
 
@@ -98,21 +94,10 @@ Unlike Review 1 (ML-based classification), this phase focuses on **interactive v
 3. Hover over charts to view detailed insights.
 4. If multiple pages are added, navigate using tabs or page navigation buttons.
 
----
-
-## 👥 Team Members
-
-- Shubham Mishra (Project Lead)
-- Annu Kumar
-- Saksham Kumar
-- Suraj Tiwari
-
----
-
 ## 🏁 Acknowledgement
 
 This is Review 2 of the **Drug Classification Project**, focused on interactive dashboards, submitted as part of the **Data Analytics Evaluation** at Galgotias University under GUVI's review structure.
 
 Thanks for reviewing!  
-— **Shubham Mishra**
+— **Saksham Bhardwaj**
 
